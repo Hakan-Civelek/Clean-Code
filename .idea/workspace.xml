@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce0c21c5-cb34-4d7d-bd57-ac4fc54696ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clean Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/DataOnlyElevatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/EncapsulatedElevatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/PrimitiveElevatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/domain/DataOnlyElevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/domain/EncapsulatedElevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/domain/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/domain/PrimitiveElevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/responsible/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/responsible/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/responsible/ResponsibleElevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/elevator/responsible/ResponsibleElevatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mpLj7fZoOPJ2wYIzpZM6jxjNQZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/Udemy Lessons/Clean Code/My practices/My Clean Code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\Udemy Lessons\Clean Code\My practices\Clean Code\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch02.elevator.responsible" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce0c21c5-cb34-4d7d-bd57-ac4fc54696ba" name="Changes" comment="" />
+      <created>1727768702373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727768702373</updated>
+      <workItem from="1727768703467" duration="90000" />
+      <workItem from="1727768798508" duration="2000" />
+      <workItem from="1727768817441" duration="12497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
